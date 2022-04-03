@@ -9,7 +9,7 @@
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
 
-# Maintainer: JC Francois <jc.francois@gmail.com>
+# Maintainer: Ross Clark <archiv8@artisteducator.com>
 # Contributor: Ross Clark <archiv8@artisteducator.com>
 
 
